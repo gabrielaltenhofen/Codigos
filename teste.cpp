@@ -3,7 +3,7 @@
  
 int main( ) {
     int x, y, i, soma;
-    std::cout << "Digit   e dois números: ";
+    std::cout << "Digite dois números: ";
     std::cin >> x >> y;
 
    
